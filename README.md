@@ -7,7 +7,7 @@ Only the tkinter library is used. This library comes installed with python3.
 
 
 ##### calculator1.py
-Simple calculator written in Python, an improved version from:  
+Simple calculator written in Python, an improved version of this calculator:  
 https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course/blob/master/calculator.py
 
 #### calculator 2.py:
