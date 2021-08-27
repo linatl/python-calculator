@@ -11,5 +11,5 @@ Simple calculator written in Python, an improved version from:
 https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course/blob/master/calculator.py
 
 #### calculator 2.py:
-The exact same calculator, only this version is a practice of a more object-oriented approach.  
+The exact same calculator, only this version is practice to use a more object-oriented approach.  
 
