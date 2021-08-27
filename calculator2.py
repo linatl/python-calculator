@@ -1,4 +1,3 @@
-from tkinter import *
 #!/usr/bin/python3
 
 from tkinter import *
@@ -7,7 +6,6 @@ root = Tk()
 root.title("TheCalculator")
 
 class Calculator:
-
 
     def click(self, char):
         self.current = self.e.get()
